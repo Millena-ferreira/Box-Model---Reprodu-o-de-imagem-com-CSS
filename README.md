@@ -1,4 +1,4 @@
-# Box-Model---Reprodução-de-imagem-com-CSS
+# Box-Model - Reprodução de imagem com CSS
 
 Este repositório foi desenvolvido para a entrega de uma atividade de reprodução de uma imagem utilizando as configurações da Box Model com CSS, parte do curso oferecido pela Descodificadas.
 
